@@ -25,7 +25,7 @@ Spotify-Clone/
     
 🚀 How to Run
 Clone the repository:
-git clone https://github.com/your-username/spotify-ui-clone.git
+git clone https://github.com/sandip-pal1/Spotify-Clone
 Open index.html in your browser.
 
 📸 Preview
